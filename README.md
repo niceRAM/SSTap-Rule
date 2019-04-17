@@ -18,6 +18,58 @@
 
 ## 更新日志
 
+### 2019年4月10日
+
+更新 `Final Fantasy XIV` （国际服）游戏规则 By @Bluefissure
+
+### 2019年4月2日
+
+更新 `R2Arena` （竞技场服）游戏规则 By @tianyu
+
+### 2019年3月15日
+
+更新 `战争雷霆` 游戏规则 By @Bourshevik0
+
+### 2019年3月12日
+
+新增 `RagnarokOnlineTW` （仙境传说OL台湾）游戏规则 By @tianyu
+
+### 2019年3月11日
+
+更新 `R2Arena` （竞技场服）游戏规则 By @tianyu
+
+更新 `Telegram` （电报）规则 By @tianyu
+
+### 2019年3月2日
+
+更新 `R2RU` （俄服官服）游戏规则 By @tianyu
+
+更新 `R2US` （美服）游戏规则 By @tianyu
+
+更新 `R2Arena` （竞技场服）游戏规则 By @tianyu
+
+### 2019年2月25日
+
+更新 `Apex-Legends` (原腾讯加速器Apex全服规则修改版) 游戏规则 By @Gambino
+
+### 2019年2月24日
+
+更新 `Apex-Legends-tx` (腾讯加速器Apex全服) `Apex-Legends-uu` (网易UU加速器Apex全服) 游戏规则 By @Bourshevik0
+
+### 2019年2月23日
+
+更新 `Anthem` `Tom-Clancy's-Rainbow-Six-Siege-all` `War-thunder-steam` 新增 `Jump-Force` `League-of-Legends-kr` `NBA-2K19` `Pro-Evolution-Soccer-2018` `Pro-Evolution-Soccer-2019` `TianYaMingYueDao-tw`游戏规则 By @Bourshevik0
+
+更新 `Tom-Clancy's-Rainbow-Six-Siege-EAS` By @TGs4-Monet
+
+### 2019年2月22日
+
+更新 `Apex-Legends-uu` (网易UU加速器Apex全服) 新增 `Diablo3-Asia` `Diablo3-US` 游戏规则 By @Bourshevik0
+
+### 2019年2月17日
+
+修复 `叛乱：沙漠风暴` 规则无法识别问题 By @qxzg
+
 ### 2019年2月9日
 
 新增 `Apex Legends` `黑色沙漠-steam` 游戏规则 By @AmazingDM
